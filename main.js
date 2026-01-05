@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 const images = document.querySelectorAll('.imgs');
 const nextBtn = document.getElementById('next');
 const prevBtn = document.getElementById('prev');
@@ -59,6 +53,12 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
       console.log(error);
     }
   );
+});
+
+// Ama Bo scrolly web basha
+window.addEventListener("load", () => {
+  document.documentElement.style.overflowY = "auto";
+  document.body.style.overflowY = "auto";
 });
 
 
