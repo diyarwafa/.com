@@ -278,10 +278,7 @@ a i:hover{
     position: relative;
     top: 25px;
     left:510px;
-    font-size: 30px;
-    text-shadow: 1PX 0 9px #43cea2;
-    border-bottom: #43cea2 1px solid;
-    width: 90px; 
+    font-size: 30px; 
     font-family: Berkshire Swash;
     letter-spacing: 1px;
 }
@@ -370,9 +367,6 @@ a i:hover{
     position: relative;
     color: #ffff;
     font-size: 30px;
-    border-bottom: #43cea2 1px solid;
-    padding: 0px;
-    text-shadow: 0px 2px 11px #43cea2;
     font-family: Berkshire Swash;
     letter-spacing: 1px;   
     
@@ -496,7 +490,6 @@ button:hover{
 .h2-contact{
     color: #ffff;
     font-size: 30px;
-    text-shadow: 1px 0 10px #43cea2;
     font-family: Berkshire Swash;
     letter-spacing: 1px;
 
@@ -679,3 +672,4 @@ i.fa-brands{
 
 
 /*MOBILE VERSION*/
+
