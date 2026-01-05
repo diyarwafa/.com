@@ -15,6 +15,7 @@
   .header {
     padding: 2rem;
     justify-content: space-between;
+    backdrop-filter: blur(5px);
   }
 
   .logo-name {
@@ -628,6 +629,7 @@ footer{
 
     
  
+
 
 
 */
